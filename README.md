@@ -1,1 +1,1 @@
-# Shogi_opening_theory
+# 概要
