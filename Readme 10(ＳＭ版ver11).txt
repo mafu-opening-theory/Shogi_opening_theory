@@ -7,9 +7,9 @@ binƒtƒHƒ‹ƒ_“à‚ÉbookƒtƒHƒ‹ƒ_‚ðì¬‚µA‚»‚Ì’†‚É20150503ƒtƒHƒ‹ƒ_‚ðì¬Abook.bin‚ð“
 ‰‚ß‚ÄŽg‚¤l‚ÍA‚±‚±‚©‚ç‚c‚k‚µ‚Ä•‚‚©‚Þ£‚ÌbinƒtƒHƒ‹ƒ_‚É“ü‚ê‚ÄŽg—p‚·‚é‚Ì‚ªŠÈ’P‚Å‚·B
 https://github.com/Jangja/silent_majority/tree/1.2/bin
 
-‚r‚l1.24isf170225j‚ÌŒÂl“I‚È„§’l‚ÍMultiPV‚P‚Å‚ÍA
-‰Žè`‚T‚OŽè–Ú‚Ü‚Å‚PŽè“–‚½‚è‚R‚O‚O‚O–œƒm[ƒh•t‹ßi˜”Õ‚Å[‚­l‚¦‰ß‚¬‚é‚Æ’†“r”¼’[‚É“Ë‚Áž‚Þ‚æ‚¤‚Å‚·j
-‚T‚PŽè–Ú`‚PŽè“–‚½‚è‚U‚O‚O‚O–œƒm[ƒhˆÈãi’†”ÕˆÈ~‚Í‚±‚Ì‚­‚ç‚¢‚Ìƒm[ƒh”‚ª•K—v‚Ý‚½‚¢‚Å‚·j
+‚r‚l1.25‚ð­‚µŽg‚Á‚Ä‚Ý‚½ŒÂl“IŠ´‘z‚ÍA
+‚o‚u‚ÌŒ©•û‚ª•Ï‚í‚Á‚Ä‚¢‚ÄŠ´G‚Ì—Ç‚¢Žw‚µŽè‚ð‚PD‚Q‚S‚æ‚è‘‚­‚ÉŒ©‚Â‚¯‚Ä‚­‚éˆóÛ‚Å‚·B
+
 
 
 ¡‚Ü‚Ó’èÕver11i‚r‚l”Åj‚É‚Â‚¢‚Ä
@@ -22,6 +22,9 @@ ver9‚æ‚è‘å•‚É•ÏX‚µ‚·‚¬‚½‚Ì‚Åƒoƒ‰ƒ“ƒX‚ÌÄ’²®‚ðŽÀŽ{‚µ‚Ü‚µ‚½B
 ¡‚Ü‚Ó’èÕ’èÕver10i‚r‚l”Åj‚©‚ç‚ÌŽå‚ÈC³ƒ–Š
 
 ‡@‚Ü‚Ó’èÕ‚Ìfloodgate‚ÉŒ»‚ê‚½201704**‚Ü‚Å‚Ìˆ«‚¢•”•ª
+Å‹ß‚Ì«Šûƒ\ƒtƒg‚Í‹­‚·‚¬‚ÄŠû•ˆ‚Ì“Yí‚ÉŽžŠÔ‚ª‚©‚©‚è‚Ü‚·B
+‘IŽèŒ ‘O‚ÌŠÈ’P‚ÈƒfƒoƒbƒNì‹Æ‚Ì‚æ‚¤‚ÉŽg—p‚µ‚Ä‚¢‚½‚¾‚¯‚½‚ç‚ÆŽv‚¢A’v–½“I‚Èƒ–Š‚¾‚¯‹}‚¬’¼‚µ‚Ä‚¢‚Ü‚·‚Ì‚Åver10‚©‚ç‚Ù‚Æ‚ñ‚ÇC³o—ˆ‚Ä‚¢‚Ü‚¹‚ñB
+i’´‹}í‚ÌƒcƒŠ[‚ªØ‚ê‚Ä‚¢‚½Š‚Æ‚©A”­¶•p“x‚Ì‘½‚¢‹Ç–Êis‚Å’èÕ‚ð”²‚¯‚½‚ç”Žè‚Å|‚R‚O‚O‚Æ‚©‚É‚È‚éƒ–Š‚¾‚¯j
 
 ‡Aver9‚æ‚è‘å•‚É•ÏX‚µ‚·‚¬‚½‚Ì‚Åƒoƒ‰ƒ“ƒX‚ÌÄ’²®‚ðŽÀŽ{iver10‚æ‚è–ñ‚P‚O‚O‚O‚OŽè‚ÌC³j
 
@@ -44,4 +47,4 @@ ver9‚æ‚è‘å•‚É•ÏX‚µ‚·‚¬‚½‚Ì‚Åƒoƒ‰ƒ“ƒX‚ÌÄ’²®‚ðŽÀŽ{‚µ‚Ü‚µ‚½B
 
 floodgate‚Éo‚Ä‚«‚½Maidy_Maidy‚ª–Ê”’‚¢B
 ‚¢‚ë‚ñ‚ÈŠ‚É–î‘q‚Ìˆâ“`Žq‚ðŠ´‚¶‚éB
-‚½‚Ô‚ñtanuki‚³‚ñ‚¾‚ÆŽv‚¢‚Ü‚·‚ª‘IŽèŒ I—¹Œã‚ÉƒI[ƒvƒ“ƒ\[ƒX‰»‚³‚ê‚ê‚ÎAŠpŠ·‚í‚è‚Å‚T”ª‹àor‚T“ñ‹à‚Ì]—ˆŒ^‚ªÄ—¬s‚·‚é‚©‚à‚ÆŽv‚í‚¹‚é‚æ‚¤‚ÈŽQlŽè‹Ø‚ªŒ©‚ç‚ê‚éB
+‚½‚Ô‚ñtanuki-‚³‚ñ‚¾‚ÆŽv‚¢‚Ü‚·‚ª‘IŽèŒ I—¹Œã‚ÉƒI[ƒvƒ“ƒ\[ƒX‰»‚³‚ê‚ê‚ÎAŠpŠ·‚í‚è‚Å‚T”ª‹àor‚T“ñ‹à‚Ì]—ˆŒ^‚ªÄ—¬s‚·‚é‚©‚à‚ÆŽv‚í‚¹‚é‚æ‚¤‚ÈŽQlŽè‹Ø‚ªŒ©‚ç‚ê‚éB
