@@ -14,8 +14,8 @@
 
 - Apery形式 ＝ Apery（浮かむ瀬）、SILENT_MAJORITY等に使用出来ます。
 - 技巧形式 ＝ 技巧に使用出来ます。
-- wcsc27tanuki-がApery形式に対応しましたので使用出来ます。
-※ＳＭより強い探索部となるかもしれませんが、現在はApery形式定跡の採用率選択が逆になる不具合中で修正待ち
+- [wcsc27tanuki-](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
+- 探索部の強さはwcsc27tanuki-　＞　ＳＭ１．２５です。
 
 ## 特徴
 
