@@ -187,4 +187,24 @@ Ponanza Chainer‚ªƒAƒs[ƒ‹•¶‘‚ðo‚µ‚½‚Æ‚«‚ÉAƒRƒ“ƒsƒ…[ƒ^«Šû‚àI‚í‚Á‚½‚È‚Æâ–]‚
 
 
 
+¡ƒRƒ“ƒsƒ…[ƒ^«ŠûƒXƒŒƒbƒh‚âTwitter‚ðŒ©‚Ä‚¢‚é‚Æ
+
+Ponanza‚ªƒfƒB[ƒvƒ‰[ƒjƒ“ƒO‚ÅŽ¸”s‚µ‚½‚Ý‚½‚¢‚È‘‚«ž‚Ý‚ð—Ç‚­Œ©‚éB
+‚µ‚©‚µ’èÕ‚ðì¬‚µ‚Ä‚¢‚é—§ê‚ÅŒ¾‚í‚¹‚Ä‚à‚¤‚ç‚¤‚ÆAƒfƒB[ƒvƒ‰[ƒjƒ“ƒO‚Í¬Œ÷‚µ‚Ä‚¢‚Ü‚·B
+
+ReadmeiŠJ”­ŽÒŒü‚¯ 5j‚Ì‚P‚X‚Rs–Ú‚É‚à‘‚¢‚Ä‚¢‚Ü‚·‚ªŽ„‚Íu‰¡•àŽæ‚èí–@‚ÍæŽè•KŸv‚¾‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B
+
+—á‚¦‚Î“ñŽŸ—\‘I 6‰ñí Ponanza Chainer - elmo
+‚ ‚ê‚¾‚¯‚ÌlA‹àA•¨‚ð“Š“ü‚µ‚ÄŒ³¢ŠEÅ‹­‚Ì«Šûƒ\ƒtƒgŠJ”­ŽÒ‚Éu¡”N‚Ì¢ŠEƒRƒ“ƒsƒ…[ƒ^«Šû‘IŽèŒ ‚ÌPonanza‚Í‚½‚Ô‚ñ‚ß‚¿‚á‚ß‚¿‚á‹­‚¢‚±‚Æ‚É‚È‚éB
+‰ß‹ŽŒ»ÝA‚»‚µ‚Ä‰ºŽè‚µ‚½‚ç¡Œã””N‚Ì–¢—ˆ‚Ü‚Å‚àŠÜ‚ß‚ÄŽjãÅ‹­‚Ì«ŠûƒvƒƒOƒ‰ƒ€‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢v‚Æ‚Ü‚ÅŒ¾‚í‚¹‚½A
+‚»‚ñ‚È«Šûƒ\ƒtƒg‚ª‘I‚ñ‚¾í–@‚ªu‰¡•àŽæ‚èv‚¾‚Á‚½‚©‚ç‚Å‚·B
+
+Ú‚µ‚¢à–¾‚ÍÈ‚«‚Ü‚·‚ªŽ„‚Ì’èÕ—˜_‚Å‚ÍA‚Q‚UŽè–Ú¢‚W”ªŠp¬‚ª‹^–âŽè‚ÅPonanza‚ÉŸ‚¿‹Ø‚ªo‚Ü‚µ‚½‚ªA‚R‚RŽè–Ú£‚Q”ª”ò‚ªˆ«Žè‚ÅPonanza‚Ì•‰‚¯‚Å‚·B
+‚R‚RŽè–Ú‚ª£‚VŽµ‹â‚ÅPonanza‚ÌŸ‚¿‚Å‚·B
+‚»‚Ì‚­‚ç‚¢‚É‚±‚Ì‹Ç–Ê‚ª‹}Š‚Å‚ ‚Á‚ÄA‚±‚êˆÈŠO‚Ì“š‚¦‚ðƒhƒ„Šç‚Åà–¾‚µ‚Ä‚¢‚él‚Í‰¡•àŽæ‚è‚ÌŒoŒ±‚ª–R‚µ‚¢l‚Å‚·B
+
+‰½ŒÌPonanza‚ªˆ«Žè‚ðŽw‚µ‚½‚Ì‚©‚É‚Â‚¢‚Ä‚ÍA¢‚SŽlŠp‘Å‚ªŒ©‚¦‚é‚Ì‚ª«Šûƒ\ƒtƒg‚É‚Æ‚Á‚Ä‚ÍöŠo‚ð‹N‚±‚·‚æ‚¤‚Å‚·B
+˜”Õ‚ÌŒŠ‚Ì‚P‚Â‚ÅAÅ‹ß‚Ì’èÕƒƒ^ƒQ[ƒ€‚ÉŽQ‰Á‚µ‚Ä‚¢‚½ŠJ”­ŽÒ‚Í•ª‚©‚é‚ÆŽv‚¢‚Ü‚·B
+
+
 ------------ˆÈ‰º‘‚«‚©‚¯--------------
