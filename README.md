@@ -1,4 +1,7 @@
-﻿## 現在の開発過程
+﻿## 次回配布（技巧２戦型別　03_横歩取り）のときにトップページ修正
+- GitHubに慣れていない人はページを開いてアルファベットがずらっと並んでいるだけで拒否反応を示す人もいるだろうと、出来るだけトップページから日本語表記のワンクリックでＤＬ出来るようにしていましたが、ページがごちゃごちゃしてきつつあるので少し削除したり修正します。
+
+## 現在の開発過程
 ＳＭ版＋技巧版ver11を配布中　※詳細はReadme 10(ＳＭ版ver11).txt参照
 - まふ定跡のfloodgateに現れた棋譜の悪い所を修正中
 - ＳＭ版ver11.1に更新（致命的なヶ所を見つけたので修正）
@@ -13,11 +16,11 @@
 
 まふ定跡とはオープンソースで使用出来る将棋ソフト用の定跡です。
 
-- Apery形式 ＝ Apery（浮かむ瀬）、SILENT_MAJORITY等に使用出来ます。
-- 技巧形式 ＝ 技巧、技巧２に使用出来ます。
+- Apery形式 ＝ Apery（浮かむ瀬）、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
+- 技巧形式 ＝ [技巧、技巧２](https://github.com/gikou-official/Gikou/releases)に使用出来ます。
 - [wcsc27tanuki-（wcsc27でelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
 - [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。
-- 現在やねうら王最新V4.52は私のＰＣではsse4.2verが起動しないので正常稼動しているか未検証
+- 現在やねうら王最新V4.52は正常稼動しているか未検証（次の配布する定跡の試運転時に狙った動作か検証する）
 
 ## 特徴
 
