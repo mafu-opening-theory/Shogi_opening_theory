@@ -2,23 +2,22 @@
 ＳＭ版＋技巧版ver11を配布中　※詳細はReadme 10(ＳＭ版ver11).txt参照
 - まふ定跡のfloodgateに現れた棋譜の悪い所を修正中
 - ＳＭ版ver11.1に更新（致命的なヶ所を見つけたので修正）
-- elmo定跡、河童全力定跡を取り込み再調整する
+- elmo定跡を取り込み横歩取り定跡を作成中
+- 河童全力定跡を取り込み再調整する予定だったが、やねうら2016フォーマットじゃない？（行詰め状態）ため取り込み出来なかった
 
 ## 開発予告
 - 技巧２が戦型を選択出来る仕様となりましたので、戦型別まふ定跡を作成したいと思います。
 - 横歩取り、角換わり、この辺から作成していきたいと思います。
-
-## tanuki-さんに要望
-- wcsc27tanuki-はApery形式の定跡読み込みに対応していますので、定跡コンボボックスの中身をstandard_book.db以外の項目を技巧２のように戦型選択出来るように変更or追加しませんか？
 
 ## 概要
 
 まふ定跡とはオープンソースで使用出来る将棋ソフト用の定跡です。
 
 - Apery形式 ＝ Apery（浮かむ瀬）、SILENT_MAJORITY等に使用出来ます。
-- 技巧形式 ＝ 技巧に使用出来ます。
-- [wcsc27tanuki-](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
-- 探索部の強さはwcsc27tanuki-　＞　ＳＭ１．２５です。
+- 技巧形式 ＝ 技巧、技巧２に使用出来ます。
+- [wcsc27tanuki-（wcsc27でelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
+- [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。
+- 現在やねうら王最新V4.52は私のＰＣではsse4.2verが起動しないので正常稼動しているか未検証
 
 ## 特徴
 
