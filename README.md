@@ -20,7 +20,7 @@
 - 技巧形式 ＝ [技巧、技巧２](https://github.com/gikou-official/Gikou/releases)に使用出来ます。
 - [wcsc27tanuki-（wcsc27でelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
 - [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。
-- 現在やねうら王最新V4.52は正常稼動しているか未検証（次の配布する定跡の試運転時に狙った動作か検証する）
+- 現在やねうら王最新V4.52はApery形式の定跡を正しく読み込めていません(５月１１日現在)wcsc27tanuki-で修正された不具合があります。
 
 ## 特徴
 
