@@ -16,18 +16,17 @@
 
 まふ定跡とはオープンソースで使用出来る将棋ソフト用の定跡です。
 
-- Apery形式 ＝ Apery（浮かむ瀬）、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
 - 技巧形式 ＝ [技巧、技巧２](https://github.com/gikou-official/Gikou/releases)に使用出来ます。
-- [wcsc27tanuki-（wcsc27でelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
-- [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。
-- 現在やねうら王最新V4.52はApery形式の定跡を正しく読み込めていません(５月１１日現在)wcsc27tanuki-で修正された不具合があります。
+- 「技巧２」のデフォルト定跡として採用されました。ありがとうございます。
+- Apery形式 ＝ Apery（浮かむ瀬）、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
+- [wcsc27tanuki-（wcsc27でPonanzaを倒したelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
 
 ## 特徴
 
 現存する人間が作成した誰でも使用出来る将棋の定跡としては登録数が多い。（Ver11現在）
 - 登録指し手数は２５０万手以上（採用率０％も含めた数）
-- 採用率の入っている登録指し手数は１２０万手以上
-- そのうち調整済み有効手は４０万手以上（他で手に入る人間が作成した定跡は４万手程度が最高）
+- 採用率の入っている登録指し手数は１３０万手以上
+- そのうち調整済み有効手は４５万手以上（他で手に入る人間が作成した定跡は４万手程度が最高）
 
 ## 使い方
 
