@@ -18,8 +18,11 @@
 
 - 技巧形式 ＝ [技巧、技巧２](https://github.com/gikou-official/Gikou/releases)に使用出来ます。
 - 「技巧２」のデフォルト定跡として採用されました。ありがとうございます。
-- Apery形式 ＝ Apery（浮かむ瀬）、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
+- Apery形式 ＝ [Apery（浮かむ瀬）](http://www2.computer-shogi.org/library/)、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
 - [wcsc27tanuki-（wcsc27でPonanzaを倒したelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
+- [nozomi](https://github.com/saihyou/nozomi/releases/tag/20161015)がApery形式に対応したようです。リンク先は旧ver。wcsc27verは今後配布される？
+- [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。
+- 現在やねうら王最新V4.55はApery形式の定跡を正しく読み込めていません(手元ＰＣでSSE4.2ver、elmo定跡で確認したところ採用率0.02の初手▲７八金ばかり指します)
 
 ## 特徴
 
