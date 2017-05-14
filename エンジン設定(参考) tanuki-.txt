@@ -1,3 +1,6 @@
+まふ定跡、Apery形式を使う場合の設定参考です
+●は特に重要な項目
+
 USI_Hash 置換表サイズ[MB]・・・1024以上が推奨
 Ponder Ponder(相手番でも考慮)・・・基本は切る
 Threads スレッド数（論理コア数まで設定すればCPU稼働率100％）
@@ -20,11 +23,11 @@ TryRule トライルール
 EvalDir 評価関数格納フォルダ
 EvalShare 評価関数を共有メモリに展開する・・・True
 Slave・・・false
-NarrowBook 出現確率の低い定跡を採用しない・・・false
+●NarrowBook 出現確率の低い定跡を採用しない・・・false
 BookMoves 定跡を用いる手数(0=未使用)・・・１２０
 PvInterval PVの出力の抑制時間[ms]・・・０
 
-BookFile 定跡ファイル・・・book.bin（Apery形式を使う場合）
+●BookFile 定跡ファイル・・・book.bin（Apery形式を使う場合）
 # このコンボボックスの値
 no_book 定跡なし
 standard_book.db 標準定跡
@@ -36,11 +39,11 @@ user_book1.db ユーザー定跡1
 user_book2.db ユーザー定跡2
 user_book3.db ユーザー定跡3
 
-BookEvalDiff 定跡の幅(0=無,30=狭,100=広)・・・３０
+BookEvalDiff 定跡の幅(0=無,30=狭,100=広)・・・０
 BookEvalDiff 定跡の第一候補手との評価値の差・・・０
 BookEvalBlackLimit 定跡の先手の評価値下限・・・０
 BookEvalWhiteLimit 定跡の後手の評価値下限・・・－１４０
-BookDepthLimit 定跡のdepth下限(0=下限なし)・・・０
+●BookDepthLimit 定跡のdepth下限(0=下限なし)・・・０
 BookOnTheFly 定跡をメモリに丸読みしない・・・false
 ResignValue 投了スコア・・・９９９９９
 nodestime nodes as time・・・０
