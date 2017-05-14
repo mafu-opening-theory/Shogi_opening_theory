@@ -15,7 +15,7 @@
 - 「技巧２」のデフォルト定跡として採用されました。ありがとうございます。
 - Apery形式 ＝ [Apery（浮かむ瀬）](http://www2.computer-shogi.org/library/)、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
 - [wcsc27tanuki-（wcsc27でPonanzaを倒したelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
-- [nozomi](https://github.com/saihyou/nozomi/releases/tag/20161015)がApery形式に対応したようです。リンク先は旧ver。wcsc27verは今後配布される？
+- [wcsc27nozomi](https://github.com/saihyou/nozomi/releases)がApery形式に対応したようです。（私のＰＣでは要求スペックを満たしていなかったので動作未確認）
 - [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。（V4.56では正常に稼動していることを確認）
 
 
