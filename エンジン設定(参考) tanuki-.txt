@@ -50,3 +50,4 @@ nodestime nodes as time・・・０
 Param1 パラメータ自動調整用X軸・・・０
 Param2 パラメータ自動調整用Y軸・・・０
 EvalSaveDir 学習時の評価関数の保存先
+●ConsiderBookMoveCount 定跡の指し手を採択率に比例させる・・・True
