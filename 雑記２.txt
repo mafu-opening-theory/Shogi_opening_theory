@@ -109,3 +109,30 @@ qhapaqŠJ”­ŽÒuelmoŒ^ŠwK‚Ì“Á’¥‚Æ’Z‚¢Ž‚¿ŽžŠÔ‚Å‹­‚­‚È‚¢——R in elo‰Í“¶—˜_v“Ç‚Ý‚
 depth 6‚ÌŽw‚µŒp‚ª‚¹‚ÌŸ—¦‚Í\•ª‚È”‚ª‚ ‚ê‚Î^‚ÌŸ—¦‚É‹ß‚Ã‚­‚ÆŽv‚í‚ê‚Ü‚·B
 
 ‚±‚ê«Šûƒ\ƒtƒg‚ÌŠû•ˆ‚Ì’†g‚ðŒ©Ø‚ê‚él‚Íà–¾o—ˆ‚é‚ñ‚Å‚·‚¯‚ÇA‘‚­‚ÆŠJ”­ŠÂ‹«‚ª‘å‚«‚¢iŒvŽZƒŠƒ\[ƒX‚ª–L•xjŠ‚ª—L—˜‚É‚È‚Á‚Ä‚µ‚Ü‚¤‚Ì‚Å‘‚«‚Ü‚¹‚ñB
+
+
+
+¡elmo•]‰¿ŠÖ”
+
+elmoŠJ”­ŽÒ‚ÌTwitter‚É‚ÄA
+„ŽG‹Ði‚è‚Á‚Äu•]‰¿’l‚ª‹ß‚­‚ÄAˆÙ‚È‚é‹Ç–Ê‚ðE‚Á‚Ä‚«‚ÄƒOƒŠƒbƒv‚ðŒø‚©‚¹‚éˆ—v‚¾‚ÆŽv‚Á‚Ä‚Ü‚·B‚¾‚©‚çŽ©•ª‚ÌƒCƒ[ƒW‚Í¦‚­³‘¥‰»€‚ÅB
+‚»‚Ì‰ðŽß‚Å‚àƒTƒ“ƒvƒ‹‚ª­‚È‚¢ƒmƒCƒY‚ª‘½‚¢(ƒxƒCƒY“I‚ÈˆÓ–¡‚Å)‚È‚Ì‚ÅA³‘¥‰»€‹­‚­‚µ‚½‚Ù‚¤‚ª—Ç‚¢‚Á‚Ä‚¢‚¤‰ðŽß‚Í‡’v‚µ‚Ü‚·B
+„‚ ˆá‚¤‚©BƒmƒCƒY‚ÌŠú‘Ò’l‚Í”‚Å•Ï‚í‚ñ‚È‚¢‚âB‚½‚¾”‚ª­‚È‚¢‚Æ“Á’¥—Ê–ˆ‚ÉŸ‚¿•‰‚¯‚ª•Î‚èˆÕ‚¢‚Ì‚Å—Ç‚­‚È‚¢‚Æ‚©‚»‚ñ‚È‹C‚Í‚·‚éB
+„³‘¥‰»€‚Æ‚¢‚¤Œ¾—t‚ÌŽg‚í‚ê•û‚ð‚µ‚Ä‚¢‚é‚Ì‚ÅAŠwK’†‚Ì•]‰¿ŠÖ”‚Å‚Ì”Žè“Ç‚Ý‚Æ‚ÌŒð·ƒGƒ“ƒgƒƒs[ƒƒX‚Ì•û‚ª‚æ‚èƒCƒ[ƒW‚É‡‚¤‚Ì‚©‚È‚Æ‚©Žv‚Á‚½‚Ì‚Å‚·‚ªA‚à‚µ‚©‚µ‚ÄŽŽ‚³‚ê‚Ä‚¢‚Ü‚·‚©?
+„‚Í‚¢A–l‚à‚»‚¤‚µ‚½‚©‚Á‚½‚Ì‚Å‚·‚ª‚â‚Á‚Ä‚Ý‚é‚Æˆ«‰»‚µ‚Ü‚µ‚½BŽû‘©‚µ‚È‚­‚È‚é‚æ‚¤‚Å‚·Bfixed target Q-learning‚Æ‚©‚ðŒ©‚é‚ÆŒÅ’è‚µ‚È‚¢‚Æ‘Ê–Ú‚È‚Ì‚©‚È‚ÆŽv‚Á‚ÄˆÈ~‚ ‚Ü‚èŒŸ“¢‚µ‚Ä‚È‚¢‚Å‚·B
+„‚¤[‚ÞŽû‘©‚µ‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤‚ñ‚Å‚·‚©BŒ³‚Ì•]‰¿ŠÖ”‚Ì”Žè“Ç‚Ý‚Á‚ÄAŒ³‚Ì•]‰¿ŠÖ”‚ðF”Z‚­Žc‚µ‚Ä‚µ‚Ü‚¢‚»‚¤‚È‚ñ‚Å‚·‚ªA‹t‚É‚»‚ê‚ª—Ç‚¢•û‚É“­‚¢‚Ä‚¢‚é‚ñ‚Å‚·‚©‚Ë‚¥
+
+ˆÈ‘OAReadmeiŠJ”­ŽÒŒü‚¯ 6j.txt‚P‚U‚Ps–Ú‚©‚ç‘‚¢‚Ä‚¢‚½’Ê‚èAŽ„‚Ì–Ú‚©‚ç‚Íuelmovui‰»‚µ‚½•‚‚©‚Þ£v‚Å‚·B
+‚È‚Ì‚ÅA‚P‚V‚Os–Ú‚É‚Íuelmoi‚è‚ÍŒ»s‚Ì•]‰¿ŠÖ”‚ÌŽdã‚°ì‹Æ‚ªo—ˆ‚é‚Ì‚Å‚Í‚È‚¢‚©‚Æl‚¦‚Ä‚¢‚Ü‚·v‚Æ‘‚«‚Ü‚µ‚½B
+
+ƒŒ[ƒeƒBƒ“ƒO‚ª‘S‘Rˆá‚¤‚¶‚á‚È‚¢‚©‚ÆŽv‚í‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªA
+Ukamuse sdt4‚Í‚R‚U‚U‚Wi’èÕ‚n‚e‚ej‚Å•‚‚©‚Þ£‚Æ“¯“™‚Ì’Tõ•”ƒŒƒxƒ‹‚ÅŒvŽZ‚·‚é‚ÆA‚R‚X‚V‚Wi’èÕ‚n‚e‚ej|‚P‚T‚O‚R‚W‚Q‚W’ö“x‚ÅA
+•]‰¿ŠÖ”’P‘Ì‚Ì·‚Í‚R‚W‚Q‚W|‚R‚U‚U‚W‚q‚P‚U‚O’ö“x‚Å‚µ‚å‚¤B
+
+‚q‚P‚U‚OŸ—¦‚V‚Q“‚Å‚·‚©‚çA
+‚Ü‚Ó’èÕv9@‘Î‹Çƒf[ƒ^‚ðŒ©‚Ä•ª‚©‚é’Ê‚èAƒ`ƒ‡ƒ‚Á‚ÆãŽè‚­Žw‚³‚¹‚½’ö“x‚Ì·‚µ‚©—L‚è‚Ü‚¹‚ñB
+
+‚Â‚Ü‚èu•‚‚©‚Þ£v‚Ì•]‰¿ŠÖ”‚ÌŠ®¬“x‚ª‚©‚È‚è—Ç‚¢Š‚Ü‚Å“ž’B‚µ‚Ä‚¢‚ÄAelmoi‚è‚ÅÅŒã‚ÌƒAƒVƒXƒg‚ð‚µ‚½B‚ª³‰ð‚Å‚·B
+
+«Šûƒ\ƒtƒgŠJ”­ŽÒ‚ç‚ÌˆÓŒ©‚ðŒ©‚Ä‚¢‚é‚ÆAelmoi‚è‚Ìª–{“I‚È•”•ª‚ðŒ©—Ž‚Æ‚µ‚Ä‚¢‚é‚æ‚¤‚ÉŠ´‚¶‚Ü‚·B
+iŸ—¦‚â”’l‚¾‚¯‚ð‚¢‚¶‚­‚è‚Ü‚í‚µ‚ÄAÅI“I‚É”½‰f‚³‚ê‚½«Šû‚Ì’†g‚ª‚Ç‚¤•Ï‚í‚Á‚½‚Ì‚©—‰ðo—ˆ‚Ä‚¢‚È‚¢‚©‚çA•Ï‚ÈŒ¶‘z‚Éƒnƒ}‚Á‚Ä‚éHj
