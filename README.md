@@ -1,9 +1,12 @@
-﻿## 現在の開発過程
+﻿## 学習用定跡作成プロジェクト開始
+数や偶然に頼った学習ではなく将棋として効率的な学習局面を与えることが定跡で出来るのかを検証する
+- [プロジェクト１](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v1.0)※こちらで７月５日から作成した評価関数をＵＰしていく
+
+## 現在の開発過程
 戦型別定跡、02_相掛かりを作成中
 - 先手調整中
 - 後手はいつも通り５０％程度になるように適当に調整中
 - 戦型別定跡、03_横歩取り.binは５月２９日にver1を配布しました（一般向けは第５回電王戦後になります）
-- 横歩取り定跡の後手番が適当すぎた。再調整する。
 
 ## 概要
 
@@ -15,7 +18,6 @@
 - [wcsc27tanuki-（wcsc27でPonanzaを倒したelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
 - [wcsc27nozomi](https://github.com/saihyou/nozomi/releases)がApery形式に対応したようです。（私のＰＣでは要求スペックを満たしていなかったので動作未確認）
 - [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。（V4.56では正常に稼動していることを確認）
-
 
 ## 特徴
 
