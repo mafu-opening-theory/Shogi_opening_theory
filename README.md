@@ -56,9 +56,11 @@ depth３とお手軽に個人作成出来るレベルで作った評価関数な
 いつもと違った状態で対局を楽しんだり、将棋ソフトのさらなる発展を願って作成しています。
 
 ## 他定跡開発者紹介
-- [tibigame](https://github.com/tibigame/HandicappedRook)さん　私の手が回らず作りたいけど作れない「振り飛車定跡」を精力的に更新されています。振り飛車学習の評価関数もあります。
+- [tibigame](https://github.com/tibigame/HandicappedRook)さん　「振り飛車定跡」を精力的に更新されています。振り飛車学習の評価関数もあります。
 - [qhapaq](http://qhapaq.hatenablog.com/)さん　将棋ソフトqhapaqの開発者で真面目な定跡から、変わった定跡までいろいろ作成されています。
-
+- [Mizar](https://onedrive.live.com/?authkey=%21APkeK0WwOdWpE8Y&id=37F98B3BB93213CD%21636&cid=37F98B3BB93213CD)さん　とにかくすごい量です。定跡作成ツールもあります。
+- [やねうら王](https://github.com/yaneurao/YaneuraOu)さん　将棋ソフトを使う人で知らない人はモグリでしょう。
+- [tanuki-](https://github.com/nodchip/hakubishin-/releases)さん　最近の互角局面定跡と言えば。
 
 ## ライセンス
 
