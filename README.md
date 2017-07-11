@@ -1,7 +1,7 @@
 ﻿## Ｒ４３００かもしれない組み合わせ情報※検証結果求む
 [やねうら王 公式サイトにこんな情報が書き込まれた](http://yaneuraou.yaneu.com/2017/07/08/%e3%81%be%e3%81%b5%e8%a9%95%e4%be%a1%e9%96%a2%e6%95%b0%e3%81%af%e4%bd%95%e6%95%85%e5%bc%b7%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b%ef%bc%9f/#comment-14783)※最強の組み合わせは「[mafu10](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v3.0)」50%＋「[野生読み太２](http://ii.ttlv.jp/learn_yomita.html)」50%だそうです。
 - 「mafu」50%＋「野生読み太２」50%が「elmo」に対して勝率７０％以上だそうです。しかもその組み合わせに「mafu10」50%＋「野生読み太」50%は勝率７０％ととんでもない強さらしいです。情報提供者のＰＣはi7-4790K及びRyzen7 1700と非常に高性能スペックの持ち時間５分１手１０秒だそうですから、１手当たり４０００万ノード以上の計測となりますが検証結果求む。
-- 上記は相性かもしれないが、「mafu10」50%＋「野生読み太２」50%が「elmo」に対しても勝率７０％以上となっているそうなので、Ｒ４２００程度はありそうだ。私自身も「mafu10」は定跡使用でＲ４２００までは確認しているので長時間対局になりますが、検証の価値有りと判断しています。
+- 上記は相性かもしれないが、「mafu10」50%＋「野生読み太２」50%が「elmo」に対しても勝率７０％以上となっているそうなので、Ｒ４２００程度はありそうだ。私自身も「mafu10」は定跡使用でＲ４２００までは確認しているので長時間対局になりますが、検証の価値有りと判断しています。（上記の長時間設定で６０局やった結果だそうです）
 - キメラ配合のやり方が分からない人もいるかもしれないので、[検証プロジェクト](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v5.0)にて上記配合したものをアップロードしておく。
 
 ## 学習用定跡作成プロジェクト開始
@@ -42,7 +42,7 @@ depth３とお手軽に個人作成出来るレベルで作った評価関数な
 - Apery形式 ＝ [Apery（浮かむ瀬）](http://www2.computer-shogi.org/library/)、[SILENT_MAJORITY](https://github.com/Jangja/silent_majority/tree/1.2/bin)等に使用出来ます。
 - [wcsc27tanuki-（wcsc27でPonanzaを倒したelmo使用と同等）](https://github.com/nodchip/hakubishin-/releases)がApery形式に対応しましたので使用出来ます。
 - [wcsc27nozomi](https://github.com/saihyou/nozomi/releases)がApery形式に対応したようです。（私のＰＣでは要求スペックを満たしていなかったので動作未確認）
-- [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/tree/master/exe/2017Early)がApery形式に対応しましたので使用出来ます。（V4.56では正常に稼動していることを確認）
+- [YaneuraOu-2017-early最新](https://github.com/yaneurao/YaneuraOu/releases)がApery形式に対応しましたので使用出来ます。（V4.56では正常に稼動していることを確認）
 
 ## 特徴
 
