@@ -1,4 +1,9 @@
-﻿## 学習用定跡作成プロジェクト開始
+﻿## 現在検証してほしい組み合わせ「mafuta3」60%＋「rezero8」40%[※対局結果求む](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v5.0)
+- mafuta3がtanuki-wcsc27の遺伝子を色濃く受け継ぎ（６九玉、５八金の配点が高い）角換わりにおいてもelmoの６二金、８一飛型を５八金型で倒しているので、こちらの進化系に絞って配合情報を募集します。
+- Qhapaq新ツールREMUで「mafuta3」を解析すると「elmo41%近似」と出ました。ＫＰＰＴ型においてelmoと玉位置配点が異なり、tanuki-wcsc27遺伝子が棋風として見えるのに驚きです。
+- Qhapaq新ツールREMUが示唆しているように、人間の目で見て違っていても機械的に同一性が認められ、relmoのようにrezero8を１：１で（今回40%）配合するとレートが向上するのであれば、Qhapaq新ツールREMUはすごい配合発見器になるかもしれません。（評価関数自体が数字の集合体なので、検証の価値がかなり有ると思っています）
+
+## 学習用定跡作成プロジェクト開始
 数や偶然に頼った学習ではなく将棋として効率的な学習局面を与えることが定跡で出来るのかを検証する
 - [プロジェクト１](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v1.0)※スタート前に自己解決しました。定跡を用いた学習が効果的であると結論が得られました。プロジェクト２より、少し前の評価関数を用いてレートに与える影響を検証したいので、配布する評価関数のレート計測等のお手伝いを頂けたらと思います。
 - [プロジェクト２](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v2.0)※ファイル名が長すぎたのか文字化けのようになっていますが.depth.x.7zが全体型（depth３×３億局面）再学習です。
