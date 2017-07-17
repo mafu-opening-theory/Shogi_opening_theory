@@ -1,4 +1,6 @@
-﻿## 現在検証してほしい組み合わせ「mafuta3」60%＋「rezero8」40%[※対局結果求む](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v5.0)
+﻿## すみません！最初に添付した「remutama40」なんかおかしいです。コンピュータ将棋スレッドで報告された方感謝です。差し替えます。
+
+## 現在検証してほしい組み合わせ「mafuta3」60%＋「rezero8」40%[※対局結果求む](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v5.0)
 - mafuta3がtanuki-wcsc27の遺伝子を色濃く受け継ぎ（６九玉、５八金の配点が高い）角換わりにおいてもelmoの６二金、８一飛型を５八金型で倒しているので、こちらの進化系に絞って配合情報を募集します。
 - Qhapaq新ツールREMUで「mafuta3」を解析すると「elmo41%近似」と出ました。ＫＰＰＴ型においてelmoと玉位置配点が異なり、tanuki-wcsc27遺伝子が棋風として見えるのに驚きです。
 - Qhapaq新ツールREMUが示唆しているように、人間の目で見て違っていても機械的に同一性が認められ、relmoのようにrezero8を１：１で（今回40%）配合するとレートが向上するのであれば、Qhapaq新ツールREMUはすごい配合発見器になるかもしれません。（評価関数自体が数字の集合体なので、検証の価値がかなり有ると思っています）
@@ -13,7 +15,7 @@ depth３とお手軽に個人作成出来るレベルで作った評価関数な
 - [プロジェクト３](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v3.0)
 	- 学習用定跡作成プロジェクト２の結果より「学習用定跡」（教師局面生成用）を配布します。
 	- 教師局面生成用評価関数（mafu10）を配布します。
-- [プロジェクト４](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v4.0)（やね氏より頂いた対局データを記載しました）
+- [プロジェクト４](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases/tag/v4.0)
 	- 評価関数ばかりに注目が行ってしまいましたが、私が作りたかった「学習用定跡」の有用性を示したいと思います。
 	- tanuki-さんから許可を貰いましたので、野生の読み太のようにtanuki-wcsc27を私の配布している「学習用定跡」で生成した教師局面で再学習し、評価関数を作ってみようと思います。
 - 現在「mafuta3」（まふ＋タヌキ評価関数）のブレンド相手の情報募集しています。この評価関数と○○％で交配すると強くなったとかの情報を受付中です。
