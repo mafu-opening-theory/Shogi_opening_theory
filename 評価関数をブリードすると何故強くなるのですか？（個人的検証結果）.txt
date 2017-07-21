@@ -1,0 +1,93 @@
+■現在配布している「mafuzero」を題材とした検証結果
+
+
+手持ち最高レート（非公開）を「Qhapaq」開発者が提供した新ツール「ＲＥＭＵ」で解析し、似ている特長を抽出した評価関数「mafuzero」
+
+１）まず手持ちの評価関数各種２０種類を「ＲＥＭＵ」で最高レートの評価関数と似ている％を算出した
+
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve toprate AAA
+
+この結果、AAA BBB CCC DDD という上位４つの評価関数を取り出す。
+
+
+２）それぞれの一致率が下記とする
+AAA 40%
+BBB 35%
+CCC 30%
+DDD 25%
+
+この後配合するので、一致率を２倍したものと「epoch0」＝評価値０とブリードする。
+
+YaneuraOuV471learn.exe test evalmerge eval epoch0 AAA 80
+YaneuraOuV471learn.exe test evalmerge eval epoch0 BBB 70
+YaneuraOuV471learn.exe test evalmerge eval epoch0 CCC 60
+YaneuraOuV471learn.exe test evalmerge eval epoch0 DDD 50
+
+
+３）これら４つをすべて５０％配合で１つの評価関数＝ZZZとした。
+※最高レートから見た特徴因子評価関数みたいなイメージで作った
+
+そして「yasema10」50% + 「ZZZ」50% = 「mafuzero」（評価値zeroを掛け合わせた）
+
+
+結果は、コンピュータ将棋スレッドで
+3スレ1秒、nodestime100、互角局面使用 
+yasema10 1080(54%) - 36 - 884(45%) mafuzero 
+
+普通、好手の特徴を突出するとＰＶはハマるが短時間では強くなるはずであり、この結果を見ると失敗している。
+しかし私の個人的検証だと、１手４０００万ノード付近で定跡無し対局だと互角だった。
+
+対局を見るに重なった部分が読み筋に入ると「yasema10」より大きな評価値を返していたので、何らかの特徴はちゃんと捉えたようだ。（この部分は成功）
+
+さらに何か上手い工夫で強く出来そうな気はした。
+
+
+
+■現在配布している「ramu」を題材とした検証結果
+
+やね氏ツイートのイケメン顔理論を採用した評価関数「ramu」
+https://twitter.com/yaneuraou/status/885502086900703232
+また返信に＞「ランダムなサンプルの平均顔よりも、美人顔の平均顔のほうが、人々は魅力的に感じるようです。」とあった。
+
+
+１）評価関数における美人の基準を「elmo」とした。
+手持ちの評価関数各種１０種類（AA，BB，CC，DD，EE，FF，GG，HH，II，JJ）となった。
+
+
+２）平均顔ということで「Qhapaq」開発者が提供した新ツール「ＲＥＭＵ」を使用し、各評価関数の全組み合わせで「その他要素」が低い評価関数上位４つを抽出した。
+
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA BB
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA CC
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA DD
+
+このように全組み合わせ
+仮にAA，BB，CC，DDといった４つが「その他要素」が低い評価関数だとする。
+
+
+３）様々な美人と似た特徴を持つ４つの評価関数から、もっとも「その他要素」が低い配合比率を探す。
+
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA BB
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA CC
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve AA DD
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve BB CC
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve BB DD
+YaneuraOu-by-gcc-remu-sse.exe test evalresolve CC DD
+
+このように全組み合わせの似ている一致率の按分で４つの評価関数を配合したものが「ramu」（「mafu」+「remu」）
+
+
+「mafuzero」が現役の世界一の美女と似た要素を最終選考に残った美女から抽出し配合したものだとするのなら、
+「ramu」は元世界一の美女（elmo）よりも現在高い評価を受けている美女の平均顔で配合したものである。
+
+結果は4スレ10秒相当（中盤初期まで4000万ノード）定跡無し　ramu ５６-９-４１ yasema10※勝率５７．１％（１０６局）
+
+簡易早見表（優位差）
+55% 271局
+56% 188局
+57% 139局
+58% 106局
+59% 84局
+60% 68局
+
+上記の２つの実験結果からは、ブリードで強くなる要因の１つが「平均美人説」（美人とはそのコミュニティにおいて最も平均的な容姿を持つものであるという仮説）
+「あの人は政治家顔だ」とかイメージする職業顔というのがあるが、今回は「あの人は将棋が強そうだ」という職業顔を作った感じ。
