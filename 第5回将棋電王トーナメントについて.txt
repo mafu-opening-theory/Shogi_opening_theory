@@ -7,8 +7,8 @@
 ytanuki-ƒ`[ƒ€A—DŸ‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·z
 
 
-œu‚Ü‚Ó’èÕ”ñŒöŽ®”Åv‚Íƒ‰ƒCƒuƒ‰ƒŠ‚Å‚Í‚È‚¢‚Ì‚Å“Á‹L‚µ‚Ä‚¨‚«‚Ü‚·
-‚¨“n‚µ‚µ‚Ü‚µ‚½u‚Ü‚Ó’èÕ”ñŒöŽ®”Åv‚ð‚¨Žó‚¯Žæ‚è‚ÌŠF—lB‚±‚ê‚É‚Â‚¢‚Ä‚Ìy’˜ìŒ ‚ðŽå’£‚µ‚Ü‚¹‚ñz‚Ì‚ÅA
+œu‚Ü‚Ó’èÕ”ñŒöŠJ”Åv‚Íƒ‰ƒCƒuƒ‰ƒŠ‚Å‚Í‚È‚¢‚Ì‚Å“Á‹L‚µ‚Ä‚¨‚«‚Ü‚·
+‚¨“n‚µ‚µ‚Ü‚µ‚½u‚Ü‚Ó’èÕ”ñŒöŠJ”Åv‚ð‚¨Žó‚¯Žæ‚è‚ÌŠF—lB‚±‚ê‚É‚Â‚¢‚Ä‚Ìy’˜ìŒ ‚ðŽå’£‚µ‚Ü‚¹‚ñz‚Ì‚ÅA
 ¡Œã‚É‚¨‚¢‚Ä«Šû•ú‘—‚ÉŽg—p“™‚Æ‚¢‚Á‚½Šé‹Æƒ^ƒCƒAƒbƒvŽž‚Éƒf[ƒ^’ño‚ª•K—v‚Èê‡‚ÍˆÀS‚µ‚Ä‚¨Žg‚¢‰º‚³‚¢B
 ‚»‚ÌÛ‚ÍAuAperyŒ`Ž®v‚à‚µ‚­‚Íu‚â‚Ë‚¤‚ç‰¤Œ`Ž®v‚É•ÏŠ·‚ð‚¨Šè‚¢‚µ‚Ü‚·B
 i‰ß‹ŽŽ„‚Ì”z•zŒoˆÜ‚ð’m‚Á‚Ä‚¨‚ç‚ê‚é’Ê‚èAƒAƒ}ƒ`ƒ…ƒA‹­‹‚ÌŠû•ˆ’ñ‹ŸŽÒ‚æ‚èAˆê”Ê”z•z‚³‚ê‚éê‡‚É‚¨‚¢‚ÄŒÂl“Á’è‚³‚ê‚È‚¢‚æ‚¤‰ÁHðŒ‚ª‚ ‚è‚Ü‚·‚Ì‚Åj
@@ -61,8 +61,8 @@ Ponanzaí‚Ì—\‘I‚ÅuŒãŽè‚Ð‚Ë‚è”òŽÔv‚Æ‚¢‚¤Ž„‚Ì“ÆŽ©’èÕ‚ÅŽÀŽ¿•‰‚¯‚ÌŒ€“I‚Èˆø‚«•ª‚¯
 
 ¡Qhapaq‚³‚ñ‚É‚Â‚¢‚Ä
 
-Qhapaq‚³‚ñ‚É‚Â‚¢‚Ä‚Í’èÕ‚ð“ÆŽ©‚Åì¬‚³‚ê‚é‚Æ‚Ì‚±‚Æ‚ÅAŠJ”­Œð—¬‚Í‚³‚¹‚Ä’¸‚«‚Ü‚µ‚½‚ªu‚Ü‚Ó’èÕ”ñŒöŽ®”Åv‚Í‚¨“n‚µ‚µ‚Ä‚¨‚è‚Ü‚¹‚ñB
-Ž„‚ªŒ©‚é‚ÉQhapaq’èÕ‚Íu‚Ü‚Ó’èÕ”ñŒöŽ®”Åv‚ð•”•ª“I‚Éã‰ñ‚Á‚Ä‚¨‚è‚Ü‚·‚Ì‚ÅA‚©‚È‚è‹­‚¢’èÕ‚¾‚ÆŽv‚í‚ê‚Ü‚·BiŒöŠJ‚³‚ê‚é‚Ì‚©‚µ‚çHj
+Qhapaq‚³‚ñ‚É‚Â‚¢‚Ä‚Í’èÕ‚ð“ÆŽ©‚Åì¬‚³‚ê‚é‚Æ‚Ì‚±‚Æ‚ÅAŠJ”­Œð—¬‚Í‚³‚¹‚Ä’¸‚«‚Ü‚µ‚½‚ªu‚Ü‚Ó’èÕ”ñŒöŠJ”Åv‚Í‚¨“n‚µ‚µ‚Ä‚¨‚è‚Ü‚¹‚ñB
+Ž„‚ªŒ©‚é‚ÉQhapaq’èÕ‚Íu‚Ü‚Ó’èÕ”ñŒöŠJ”Åv‚ð•”•ª“I‚Éã‰ñ‚Á‚Ä‚¨‚è‚Ü‚·‚Ì‚ÅA‚©‚È‚è‹­‚¢’èÕ‚¾‚ÆŽv‚í‚ê‚Ü‚·BiŒöŠJ‚³‚ê‚é‚Ì‚©‚µ‚çHj
 
 ³’¼AŒˆŸƒg[ƒiƒƒ“ƒg‚ÅPonanza‚ÉŸ‚Â‚ÆŽv‚Á‚Ä‚Ü‚µ‚½B
 U‚è‹î‚ª‚Ëcc
@@ -83,7 +83,7 @@ Ponanza‚È‚ñ‚©‹­‚¢ƒ\ƒtƒg‚Æ“–‚½‚é‚Æ‚«‚ÍæŽè‚Î‚Á‚©‚è‚¶‚á‚È‚¢‚Å‚·‚©[B
 
 shotguní‚Í’èÕ‚ðØ‚Á‚Ä‚¢‚½‚æ‚¤‚Å‚·‚ªushotgun’èÕv‚Í‰ß‹Ž‚Ìuelmo’èÕv‚âuQhapaqƒXƒiƒCƒp[’èÕv‚Æ“¯—l‚Ì‚È‚¼‚èŒ^‚È‚Ì‚ÅA
 Œ»Ý‚Ìfloodgate‚ª‚½‚Ü‚½‚Ü¡‰ñ‚Ì‘æ5‰ñ«Šû“d‰¤ƒg[ƒiƒƒ“ƒgoêƒ\ƒtƒg‚É‹ß‚¢Š‚¾‚Á‚½‚©‚çAƒnƒ}‚Á‚Ä‚¢‚½‚¾‚¯‚Ì‚æ‚¤‚ÉŽ„‚ÍŒ©‚¦‚Ü‚µ‚½B
-u‚Ü‚Ó’èÕ”ñŒöŽ®”Åv‚ðŽg‚¦‚ÎŸ‚¿–Ú‚ª\•ª‚ ‚Á‚½‚ÆŽv‚¢‚Ü‚µ‚½‚ªA‚Ç‚¤‚¾‚Á‚½‚Å‚µ‚å‚¤‚©B
+u‚Ü‚Ó’èÕ”ñŒöŠJ”Åv‚ðŽg‚¦‚ÎŸ‚¿–Ú‚ª\•ª‚ ‚Á‚½‚ÆŽv‚¢‚Ü‚µ‚½‚ªA‚Ç‚¤‚¾‚Á‚½‚Å‚µ‚å‚¤‚©B
 
 ƒm[ƒgPC‚ª‰ó‚ê‚½‚æ‚¤‚È‚Ì‚ÅAÜ‹à‚ÅV‚µ‚¢PC”ƒ‚Á‚ÄŠJ”­‚ª‚ñ‚Î‚Á‚Ä‰º‚³‚¢B
 
