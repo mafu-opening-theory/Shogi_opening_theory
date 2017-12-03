@@ -3,7 +3,6 @@
 
 ## 学習用定跡作成プロジェクト終了
 数や偶然に頼った学習ではなく将棋として効率的な学習局面を与えることが定跡で出来るのかを検証した
-- [検証結果やダウンロード先はこちら](https://github.com/mafu-opening-theory/Shogi_opening_theory/releases)
 
 ## 概要
 
